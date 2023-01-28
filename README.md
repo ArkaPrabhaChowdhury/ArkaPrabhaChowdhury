@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arka Prabha Chowdhury</h1>
 <h3 align="center">A passionate frontend developer from India. Currently working as a front end intern at a German start up.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arkaprabhachowdhury" alt="arkaprabhachowdhury" /></a> </p>
 
 - 🌱 I’m currently learning **DSA**
 
