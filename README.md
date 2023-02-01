@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arka Prabha Chowdhury</h1>
-<h3 align="center">A passionate frontend developer from India. Currently working as a front end intern at a German start up.</h3>
+<h3 align="center">A passionate and goal-oriented developer from India. Currently working as a front end intern at a German start up.</h3>
 
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSA** with Java
 
 - 📝 I regularly write articles on [https://feedingtrends.com/u/arkaprabha](https://feedingtrends.com/u/arkaprabha)
 
