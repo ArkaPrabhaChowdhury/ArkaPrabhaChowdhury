@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **arkopra@gmail.com**
 
-- ⚡ Fun fact: **I love gaming!**
+- ⚡ Fun fact: **I love contributing to Open Source and gaming!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
