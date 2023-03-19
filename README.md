@@ -6,7 +6,7 @@
 
 - 📝 I regularly write articles on [https://feedingtrends.com/u/arkaprabha](https://feedingtrends.com/u/arkaprabha)
 
-- 💬 Ask me about **React,Bootstrap, TailwindCSS,Web development and Machine Learning**
+- 💬 Ask me about **React,Bootstrap, TailwindCSS and Web development**
 
 - 📫 How to reach me **arkopra@gmail.com**
 
