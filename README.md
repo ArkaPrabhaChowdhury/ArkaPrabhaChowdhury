@@ -2,7 +2,7 @@
 <h3 align="center">A passionate and goal-oriented developer from India. Currently working as a MERN stack intern and App developer intern at a German start up.</h3>
 
 
-- 🌱 I’m currently learning React Native and AWS
+- 🌱 I’m currently working on React Native, React and NextJS.
 
 - 📝 I regularly write articles on [https://feedingtrends.com/u/arkaprabha](https://feedingtrends.com/u/arkaprabha)
 
