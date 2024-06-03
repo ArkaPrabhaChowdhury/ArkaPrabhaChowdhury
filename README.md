@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **arkopra@gmail.com**
 
-- - 📝 I sometimes write articles on [https://feedingtrends.com/u/arkaprabha](https://feedingtrends.com/u/arkaprabha)
+- 📝 I sometimes write articles on [https://feedingtrends.com/u/arkaprabha](https://feedingtrends.com/u/arkaprabha)
 
 - ⚡ Fun fact: **I love contributing to Open Source and gaming!**
 
