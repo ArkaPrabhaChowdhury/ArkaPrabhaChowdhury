@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Arka Prabha Chowdhury</h1>
-<h3 align="center">A passionate and goal-oriented developer from India. Currently working as a MERN stack intern and App developer intern at a German start up.</h3>
+<h3 align="center">A passionate and goal-oriented developer from India. Currently working as a WordPress developer at rtCamp. Previously worked as a MERN stack & App developer at a German start up for 2 years.</h3>
 
 
 - 🌱 I’m currently learning Wordpress and its usage with other technologies like React.
 
-- 💬 Ask me about **Full Stack Development and React Native**
+- 💬 Ask me about **Full Stack Development, React Native and WordPress **
 
 - 📫 How to reach me **arkopra@gmail.com**
-
-- 📝 I sometimes write articles on [https://feedingtrends.com/u/arkaprabha](https://feedingtrends.com/u/arkaprabha)
 
 - ⚡ Fun fact: **I love contributing to Open Source and gaming!**
 
