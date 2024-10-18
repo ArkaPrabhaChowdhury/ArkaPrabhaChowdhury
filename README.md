@@ -2,7 +2,7 @@
 <h3 align="center">A passionate and goal-oriented developer from India. Currently working as a MERN stack intern and App developer intern at a German start up.</h3>
 
 
-- 🌱 I’m currently learning to work with AI tools and also learning Wordpress.
+- 🌱 I’m currently learning Wordpress and its usage with other technologies like React.
 
 - 💬 Ask me about **Full Stack Development and React Native**
 
