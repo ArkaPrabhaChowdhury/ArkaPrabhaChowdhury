@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Wordpress and its usage with other technologies like React.
 
-- 💬 Ask me about **Full Stack Development, React Native and WordPress **
+- 💬 Ask me about **Full Stack Development, React Native and WordPress**
 
 - 📫 How to reach me **arkopra@gmail.com**
 
